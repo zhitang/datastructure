@@ -13,3 +13,5 @@ public:
   int total() const;
   void displayToss() const;
 };
+
+
